@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LivroBD2Prova</string>
+    <string name="action_settings">Settings</string>
+    <!-- strings 1 layout -->
+    <string name="nome_livro">Nome do Livro: </string>
+    <string name="editora_livro">Editora do Livro: </string>
+    <string name="cadastrar_livro">Cadastrar Livro</string>
+    <string name="lista_livro">Livros Cadastrados</string>
+    <!-- strings hint -->
+    <string name="hint_livro">Ex:. Google Andorid</string>
+    <string name="hint_editora">Ex:. Casa do Codigo</string>
+    <!-- stts strings -->
+    <string name="sucesso_cadastro">Livro Cadastrado!</string>
+    <string name="error_cadastro">Erro ao Cadastrar Livro!</string>
+    <string name="nenhum_cadastro">Nenhum Livro Cadastrado</string>
+    <string name="title_activity_edita_livros">EditaLivrosActivity</string>
+    <string name="title_activity_lista_livros">ListaLivrosActivity</string>
+
+    <string name="todos_livros">Todos Livros</string>
+</resources>
